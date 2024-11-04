@@ -1,0 +1,8 @@
+# Ignorer les dossiers système de Windows
+AppData/
+
+# Ignorer les fichiers et dossiers générés par Eclipse
+.classpath
+.project
+.settings/
+bin/
